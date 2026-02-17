@@ -1,6 +1,19 @@
 # JIRA_Forge_APP
 JIRA Embedded view
 
+
+
+my-app/
+  ├── manifest.yml
+  ├── src/
+  ├── static/
+        └── hello-world/
+              ├── package.json
+              └── src/
+
+
+			  
+
 Forge Jira Issue Panel – Deployment & Testing Guide
 1️⃣ Install Forge CLI
 
