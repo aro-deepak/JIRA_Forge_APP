@@ -2,17 +2,13 @@
 JIRA Embedded view
 
 
-
-AroTrace/
-
-  ├── manifest.yml
-  ├── src/
-  ├── static/
-  
-        └── hello-world/
-		
-              ├── package.json
-              └── src/
+	AroTrace/
+  		├── manifest.yml
+ 		├── src/
+  		├── static/
+  		└── hello-world/
+			├── package.json
+        	└── src/
 
 
 			  
